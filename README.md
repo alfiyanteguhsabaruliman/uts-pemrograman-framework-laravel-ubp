@@ -1,8 +1,6 @@
 
 # UTS Pemrograman Web Framework – Laravel 11/12
 
-Repository ini merupakan hasil pengerjaan Ujian Tengah Semester (UTS) Mata Kuliah **Pemrograman Berbasis Framework** pada semester genap 2024/2025 di **Universitas Buana Perjuangan Karawang**.
-
 ## 🧑‍💻 Dosen Pengampu
 - Yusuf Eka Wicaksana, M.Kom
 - Nurhayati, M.Kom
@@ -79,15 +77,3 @@ Repository ini merupakan hasil pengerjaan Ujian Tengah Semester (UTS) Mata Kulia
 | Users        | POST   | `/api/register`        | Registrasi user   |
 
 ---
-
-## 📋 Catatan
-
-- Role `user` hanya bisa mendaftar melalui endpoint `/api/register`.
-- Produk menyimpan `modified_by` berupa email user, tanpa relasi ke tabel users.
-- Hapus kategori akan menghapus produk terkait (cascade).
-
----
-
-## 📎 Lisensi
-Project ini dibuat untuk keperluan akademik dan tidak dimaksudkan untuk digunakan dalam produksi.
-# uts-pemrograman-framework-laravel-ubp
